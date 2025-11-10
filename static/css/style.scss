@@ -1,0 +1,16 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    list-style-position: outside;
+}
+img{
+    max-width: 100%;
+}
+h1 img{
+    width: 200px;
+}
+

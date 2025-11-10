@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <language>ja</language>
+  <copyright>© Tokyo News Corporation</copyright>
+  <pubDate>Tue, 04 Nov 2025 13:00:00 GMT</pubDate>
+  <title>Tokyo News - 国内トピックス</title>
+  <link>https://tokyo-news.jp/topics/domestic?source=rss</link>
+  <description>Tokyo Newsが提供する国内の主要ニューストピックス。</description>
+
+  <item>
+    <title>首都圏で新型交通システムの運行開始</title>
+    <link>https://tokyo-news.jp/articles/10001?source=rss</link>
+    <pubDate>Tue, 04 Nov 2025 06:45:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10001/comments</comments>
+  </item>
+
+  <item>
+    <title>政府、子育て支援策を大幅拡充へ</title>
+    <link>https://tokyo-news.jp/articles/10002?source=rss</link>
+    <pubDate>Tue, 04 Nov 2025 05:20:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10002/comments</comments>
+  </item>
+
+  <item>
+    <title>東京駅前に巨大複合施設が開業</title>
+    <link>https://tokyo-news.jp/articles/10003?source=rss</link>
+    <pubDate>Tue, 04 Nov 2025 03:30:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10003/comments</comments>
+  </item>
+
+  <item>
+    <title>北陸地方で初雪観測 今季最も早い</title>
+    <link>https://tokyo-news.jp/articles/10004?source=rss</link>
+    <pubDate>Tue, 04 Nov 2025 02:50:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10004/comments</comments>
+  </item>
+
+  <item>
+    <title>IT企業が週4勤務制を導入 試験運用開始</title>
+    <link>https://tokyo-news.jp/articles/10005?source=rss</link>
+    <pubDate>Tue, 04 Nov 2025 01:40:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10005/comments</comments>
+  </item>
+
+  <item>
+    <title>関西で再生エネルギー拠点の建設始まる</title>
+    <link>https://tokyo-news.jp/articles/10006?source=rss</link>
+    <pubDate>Mon, 03 Nov 2025 23:55:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10006/comments</comments>
+  </item>
+
+  <item>
+    <title>大学生のボランティア活動が全国表彰</title>
+    <link>https://tokyo-news.jp/articles/10007?source=rss</link>
+    <pubDate>Mon, 03 Nov 2025 22:40:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10007/comments</comments>
+  </item>
+
+  <item>
+    <title>新型ドローン配送 実証実験が成功</title>
+    <link>https://tokyo-news.jp/articles/10008?source=rss</link>
+    <pubDate>Mon, 03 Nov 2025 21:20:00 GMT</pubDate>
+    <comments>https://tokyo-news.jp/articles/10008/comments</comments>
+  </item>
+
+</channel>
+</rss>

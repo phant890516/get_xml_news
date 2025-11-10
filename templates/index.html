@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <link rel="shortcut icon" href="static/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <header class="">
+        <h1><img src="static/img/vendorMachine.png"></h1>
+        <p>{{message}}</p>
+    </header>
+    <!-- 参考 YahooRSS一覧：https://news.yahoo.co.jp/rss -->
+    <form action="" class="rss-container">
+        <input type="radio" id="domestic" name="rss-select" value="xml/domestic.xml"><label for="domestic">国内</label>
+        <input type="radio" id="world" name="rss-select" value="xml/international.xml"><label for="world">国際</label>
+        <input type="radio" id="business" name="rss-select" value="xml/econamic.xml"><label for="business">経済</label>
+        <input type="radio" id="entertainment" name="rss-select" value="xml/entertainment.xml"><label for="entertainment">エンタメ</label>
+        <button type="submit" id="btn">表示する</button>
+    </form>
+    <hr>
+    <div id="output">
+        <div class="index-output">
+            <p>簡易ニュースアプリです。</p>
+        </div>
+    </div>
+    <button id="scrollToTop">↑</button>
+
+    <script src="static/js/jquery-3.6.0.min.js"></script>
+    <script src="static/js/script.js"></script>
+</body>
+</html>
