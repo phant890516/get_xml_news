@@ -14,9 +14,8 @@ function formatDate(pubDate){
     return `${year}年${month}月${day}日${hours}時${minutes}分${seconds}秒`
 }
 
-$("#btn").on("click",function(e){
-    console.log("button click");
-    e.preventDefault();
+$("input[name='rss-select']").on("change",function(e){
+    console.log("radio change");
     console.log(e);
     $("#output").empty();
     $("#radio_error").empty();
